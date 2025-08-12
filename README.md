@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-I am interested in all things tech, especially legal tech.
+I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
 
 ## `$ whoami`
 
