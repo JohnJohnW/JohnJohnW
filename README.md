@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-I build practical AI + automation for law and professional services. Currently completing a **Bachelor of Laws / Bachelor of Information Technology (Honours)**, majoring in **Information Systems** at QUT. Hands on with legal tech, compliance tooling, and small biz automation. I like shipping useful things fast: hackathons, prototypes, and real clients.
+I am currently completing a **Bachelor of Laws / Bachelor of Information Technology (Honours)**, majoring in **Information Systems** at QUT.
 
 ## `$ whoami`
 
