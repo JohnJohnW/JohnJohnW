@@ -8,7 +8,7 @@ I’m passionate about all things technology, with a special interest in legal t
 * 💼 **Administrative Assistant @ Dundas Lawyers**
 * 🤝 **Industry Coordinator @ QUT LITS** (Law, Innovation & Technology Society)
 * 📍 Brisbane, Australia
-* 🥋 Into **BJJ**, cybersecurity law, and workflow design
+* 🥋 Into **BJJ**, law, and technology
 
 ## `$ ping`
 
