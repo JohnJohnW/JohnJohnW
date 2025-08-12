@@ -15,38 +15,3 @@ I build practical AI + automation for law and professional services. Currently c
 * 🌐 Website/Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
-
-## `$ now`
-
-* Exploring AI automation for legal and professional services
-* Learning more about compliance tech and knowledge management systems
-* Developing personal projects to improve workflow efficiency
-* Participating in hackathons and collaborative projects
-* Experimenting with n8n, Python, and React
-
-## `$ stack`
-
-**Languages:** Python, JavaScript, SQL
-**AI:** OpenAI API, basic RAG patterns, embeddings, function/tool calling
-**Data & Infra:** Postgres, MongoDB, SQLite
-**Automation:** n8n
-**Web:** React, Flask
-**Tooling:** VS Code, pip
-
-## `$ projects`
-
-* Cache to the Future - encrypted note/time capsule app (React + crypto APIs)
-* Personal automation and productivity tools
-* Hackathon prototypes focused on AI and workflow optimisation
-
-## `$ open to`
-
-* Short consulting sprints for automation and LLM integration
-* Intern/grad opportunities in consulting, platforms, or applied AI
-* Partnerships with small law/accounting firms exploring AI safely
-
-## `$ how I work`
-
-* Small, composable PRs. Ship vertical slices early. Keep humans in the loop.
-* Measured automation: logs, retries, clear failure paths, and fallbacks.
-* Prefer observable infrastructure over unnecessary complexity.
