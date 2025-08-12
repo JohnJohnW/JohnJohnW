@@ -5,7 +5,7 @@ I’m passionate about all things technology, with a special interest in legal t
 ## `$ whoami`
 
 * 🎓 **Bachelor of Laws / Bachelor of Information Technology (Honours) (Information Systems) @ QUT**
-* 💼 **Administrative Assistant @ a boutique law firm**
+* 💼 **Administrative Assistant @ Dundas Lawyers**
 * 🤝 **Industry Coordinator @ QUT LITS** (Law, Innovation & Technology Society)
 * 📍 Brisbane, Australia
 * 🥋 Into **BJJ**, cybersecurity law, and workflow design
