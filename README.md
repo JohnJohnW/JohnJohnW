@@ -12,9 +12,9 @@ I build practical AI + automation for law and professional services. Currently c
 
 ## `$ ping`
 
-* 🌐 Website/Portfolio: **YOUR\_PORTFOLIO\_URL**
-* 💼 LinkedIn: **YOUR\_LINKEDIN\_URL**
-* ✉️ Email: **[your.name@domain.com](mailto:your.name@domain.com)**
+* 🌐 Website/Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
+* 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
+* ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
 
 ## `$ now`
 
