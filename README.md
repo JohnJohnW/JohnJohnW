@@ -1,6 +1,6 @@
 # Hey, I'm John 👋
 
-I am currently completing a **Bachelor of Laws / Bachelor of Information Technology (Honours)**, majoring in **Information Systems** at QUT.
+I am interested in all things tech, especially legal tech.
 
 ## `$ whoami`
 
