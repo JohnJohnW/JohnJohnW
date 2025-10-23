@@ -6,7 +6,7 @@ I’m passionate about all things technology, with a special interest in legal t
 
 * 🎓 **Bachelor of Laws / Bachelor of Information Technology (Honours) (Information Systems) @ QUT**
 * 💼 **Administrative Assistant @ Dundas Lawyers**
-* 🤝 **Industry Coordinator @ QUT LITS** (Law, Innovation & Technology Society)
+* 🤝 **Secretary @ QUT LITS** (Law, Innovation & Technology Society)
 * 🤝 **General Executive @ QUT CSC** (Cyber Security Club)
 * 📍 Brisbane, Australia
 * 🥋 Interested in **BJJ**
