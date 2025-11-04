@@ -4,7 +4,7 @@ I’m passionate about all things technology, with a special interest in legal t
 
 ## `$ whoami`
 
-* 🎓 **Bachelor of Laws / Bachelor of Information Technology (Honours) (Information Systems) @ QUT**
+* 🎓 **Bachelor of Laws (Honours) / Bachelor of Information Technology (Information Systems) @ QUT**
 * 💼 **Administrative Assistant @ Dundas Lawyers**
 * 🤝 **Secretary @ QUT LITS** (Law, Innovation & Technology Society)
 * 🤝 **General Executive @ QUT CSC** (Cyber Security Club)
