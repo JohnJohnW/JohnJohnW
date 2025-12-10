@@ -14,6 +14,6 @@ I’m passionate about all things technology, with a special interest in legal t
 
 ## `$ ping`
 
-* 🌐 Website/Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
+* 🌐 Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
