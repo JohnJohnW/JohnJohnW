@@ -30,12 +30,6 @@ I’m passionate about all things technology, with a special interest in legal t
 
 <div style="height:2px; background: linear-gradient(90deg, #38BDF8, #6366F1); margin: 20px 0;"></div>
 
-![WakaTime](https://wakatime.com/share/@yourusername/graph.svg)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=JohnJohnW&theme=dark&ring=38BDF8&fire=14B8A6)
-
-![Snake animation](https://github.com/JohnJohnW/JohnJohnW/blob/output/github-contribution-grid-snake.svg)
-
 <img src="https://your-hosted-gif.com/terminal-demo.gif" width="600" />
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
