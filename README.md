@@ -1,7 +1,5 @@
 # Hey, I'm John 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&typeSpeed=40&color=38BDF8&cursor=_&width=600&lines=Law+%7C+Information+Technology)
-
 I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
 
 <img src="https://i.pinimg.com/originals/4e/fe/e1/4efee18cb06f3d2f8456a40d1e0460e7.gif" width="120" />
