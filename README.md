@@ -19,3 +19,22 @@ I’m passionate about all things technology, with a special interest in legal t
 * 🌐 Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
+
+## $ status --live
+
+🟢 Building: legal-tech tooling  
+🟡 Learning: Ruby on Rails, AI-assisted compliance  
+🔵 Exploring: cybersecurity + regulatory automation  
+🟣 Training: BJJ (consistently, not occasionally)
+
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&width=550&lines=Legal+Tech+%7C+Software+Engineering;Law+%2B+Code+%2B+Automation;Building+tools+that+remove+friction)
+
+## $ now
+
+- ⚖️ Legal-tech tools for smarter workflows
+- 🧠 AI-assisted document & compliance systems
+- 🧪 Side projects exploring automation + security
+
+## $ activity
+
+![John's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnJohnW&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true)
