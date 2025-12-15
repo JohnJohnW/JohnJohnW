@@ -1,8 +1,6 @@
 # Hey, I'm John 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&typeSpeed=40&color=38BDF8&cursor=_&width=600&lines=Legal+Tech+%7C+Software+Engineering;Law+%2B+Code+%2B+Automation;Engineering+practical+legal+systems)
-
-
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&typeSpeed=40&color=38BDF8&cursor=_&width=600&lines=Law+%7C+Information+Technology)
 
 I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
 
@@ -31,7 +29,3 @@ I’m passionate about all things technology, with a special interest in legal t
 <div style="height:2px; background: linear-gradient(90deg, #38BDF8, #6366F1); margin: 20px 0;"></div>
 
 <img src="https://your-hosted-gif.com/terminal-demo.gif" width="600" />
-
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
-![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
