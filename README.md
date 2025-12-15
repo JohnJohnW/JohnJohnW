@@ -1,6 +1,8 @@
 # Hey, I'm John 👋
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1000&color=38BDF8&width=550&lines=Legal+Tech+%7C+Software+Engineering;Law+%2B+Code+%2B+Automation;Building+tools+that+remove+friction)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1200&typeSpeed=40&color=38BDF8&cursor=_&width=600&lines=Legal+Tech+%7C+Software+Engineering;Law+%2B+Code+%2B+Automation;Engineering+practical+legal+systems)
+
+
 
 I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
 
@@ -24,6 +26,18 @@ I’m passionate about all things technology, with a special interest in legal t
 
 ## $ activity
 
-![John's GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnJohnW&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnJohnW&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=JohnJohnW&show_icons=true&hide_title=true&hide_rank=true&bg_color=0d1117&icon_color=38bdf8&text_color=ffffff&hide_border=true)
+<div style="height:2px; background: linear-gradient(90deg, #38BDF8, #6366F1); margin: 20px 0;"></div>
+
+![WakaTime](https://wakatime.com/share/@yourusername/graph.svg)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=JohnJohnW&theme=dark&ring=38BDF8&fire=14B8A6)
+
+![Snake animation](https://github.com/JohnJohnW/JohnJohnW/blob/output/github-contribution-grid-snake.svg)
+
+<img src="https://your-hosted-gif.com/terminal-demo.gif" width="600" />
+
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
+![Rails](https://img.shields.io/badge/Rails-D30001?style=for-the-badge&logo=ruby-on-rails&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
