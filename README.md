@@ -2,6 +2,8 @@
 
 I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
 
+<img src="https://i.pinimg.com/originals/4e/fe/e1/4efee18cb06f3d2f8456a40d1e0460e7.gif" width="120" />
+
 ## `$ whoami`
 
 * 🎓 **Bachelor of Laws (Honours) / Bachelor of Information Technology (Information Systems) @ QUT**
@@ -17,5 +19,3 @@ I’m passionate about all things technology, with a special interest in legal t
 * 🌐 Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
-
-<img src="https://i.pinimg.com/originals/4e/fe/e1/4efee18cb06f3d2f8456a40d1e0460e7.gif" width="120" />
