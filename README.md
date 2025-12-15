@@ -19,11 +19,3 @@ I’m passionate about all things technology, with a special interest in legal t
 * 🌐 Portfolio: **https://johnjohnw.github.io/personal_portfolio/**
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
-
-## $ activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JohnJohnW&bg_color=0d1117&color=38bdf8&line=38bdf8&point=ffffff&area=true&hide_border=true)
-
-<div style="height:2px; background: linear-gradient(90deg, #38BDF8, #6366F1); margin: 20px 0;"></div>
-
-<img src="https://your-hosted-gif.com/terminal-demo.gif" width="600" />
