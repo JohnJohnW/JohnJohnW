@@ -18,4 +18,4 @@ I’m passionate about all things technology, with a special interest in legal t
 * 💼 LinkedIn: **https://www.linkedin.com/in/john-wynter/**
 * ✉️ Email: **[johnwynter55893@outlook.com](mailto:johnwynter55893@outlook.com)**
 
-<img src="https://i.pinimg.com/originals/4a/47/01/4a470171c6cbe593049dad75a7ac0548.gif" width="120" />
+<img src="[https://i.pinimg.com/originals/4a/47/01/4a470171c6cbe593049dad75a7ac0548.gif](https://i.pinimg.com/originals/4e/fe/e1/4efee18cb06f3d2f8456a40d1e0460e7.gif)" width="120" />
