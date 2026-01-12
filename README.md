@@ -7,10 +7,10 @@ I’m passionate about all things technology, with a special interest in legal t
 ## `$ whoami`
 
 * 🎓 **Bachelor of Laws (Honours) / Bachelor of Information Technology (Information Systems) @ QUT**
-*  💼 **Software Engineer Intern @ Tanda**
+* 💼 **Software Engineer Intern @ Tanda**
 * 💼 **Administrative Assistant @ Dundas Lawyers**
 * 🤝 **Secretary @ QUT LITS** (Law, Innovation & Technology Society)
-* 🤝 **General Executive @ QUT CSC** (Cyber Security Club)
+* 🤝 **Marketing Manager @ QUT CSC** (Cyber Security Club)
 * 📍 Brisbane, Australia
 * 🥋 Interested in **BJJ**
 
