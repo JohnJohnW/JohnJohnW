@@ -1,13 +1,12 @@
 # Hey, I'm John 👋
 
-I’m passionate about all things technology, with a special interest in legal tech and how innovative solutions can streamline processes, enhance access to information, and create smarter workflows.
+I’m passionate about all things technology, with a special interest in cybersecurity GRC and legal-tech.
 
 <img src="https://i.pinimg.com/originals/4e/fe/e1/4efee18cb06f3d2f8456a40d1e0460e7.gif" width="120" />
 
 ## `$ whoami`
 
 * 🎓 **Bachelor of Laws (Honours) / Bachelor of Information Technology (Information Systems) @ QUT**
-* 💼 **Software Engineer Intern @ Tanda**
 * 💼 **Administrative Assistant @ Dundas Lawyers**
 * 🤝 **Secretary @ QUT LITS** (Law, Innovation & Technology Society)
 * 🤝 **Marketing Manager @ QUT CSC** (Cyber Security Club)
