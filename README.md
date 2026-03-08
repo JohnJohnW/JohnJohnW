@@ -7,9 +7,9 @@ I’m passionate about all things technology, with a special interest in cyberse
 ## `$ whoami`
 
 * 🎓 **Bachelor of Laws (Honours) / Bachelor of Information Technology (Information Systems) @ QUT**
-* 💼 **Administrative Assistant @ Dundas Lawyers**
+* 💼 **Information Security (Governance, Risk and Compliance) Associate @ QUT**
 * 🤝 **Secretary @ QUT LITS** (Law, Innovation & Technology Society)
-* 🤝 **Marketing Manager @ QUT CSC** (Cyber Security Club)
+* 🤝 **General Executive @ QUT CSC** (Cyber Security Club)
 * 📍 Brisbane, Australia
 * 🥋 Interested in **BJJ**
 
